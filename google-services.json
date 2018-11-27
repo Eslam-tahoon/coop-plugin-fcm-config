@@ -1,27 +1,35 @@
 {
   "project_info": {
-    "project_number": "448563245863",
-    "firebase_url": "https://zadcom-2018.firebaseio.com",
-    "project_id": "zadcom-2018",
-    "storage_bucket": "zadcom-2018.appspot.com"
+    "project_number": "538511481502",
+    "firebase_url": "https://coop-2507a.firebaseio.com",
+    "project_id": "coop-2507a",
+    "storage_bucket": "coop-2507a.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:448563245863:android:220e2d7865d1dcc5",
+        "mobilesdk_app_id": "1:538511481502:android:90b90aca7201808a",
         "android_client_info": {
-          "package_name": "com.shortcuts.zadcom"
+          "package_name": "com.shortcuts.coop"
         }
       },
       "oauth_client": [
         {
-          "client_id": "448563245863-9b37tugmcpf5gotpr5lk1qb24jnd8b35.apps.googleusercontent.com",
+          "client_id": "538511481502-aa07ck5cetk7mtbhllo2h1ucfh2hjpn1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shortcuts.coop",
+            "certificate_hash": "ea425c783ce0a4e8a34bf0ab30b4215e6cc07569"
+          }
+        },
+        {
+          "client_id": "538511481502-nvfloa6dso252vkl22sea2mc9o09ijh3.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCx04oqw7yQLdqAxfIFNC1ylmGzbzry7xw"
+          "current_key": "AIzaSyCD5mAt6A_C_d0OFCw23Ar-m_zn4ZrwLPE"
         }
       ],
       "services": {
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538511481502-nvfloa6dso252vkl22sea2mc9o09ijh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
